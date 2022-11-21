@@ -1,0 +1,52 @@
+.container
+{
+    width: 1000px;
+    margin: 0 auto; 
+    text-align: center;  
+}
+img
+{
+   text-align: center;
+   margin-top: 50px;
+}
+input
+{
+   width: 30%;
+    
+}
+.box
+{
+    margin-top: 2%;
+}
+.sol
+{
+    width: 30%;
+    float: left;
+    background-color: aqua;
+    height: 150px;
+}
+.orta
+{
+    width: 20%;
+    float: left;
+    background-color: rgb(149, 190, 190);
+    margin: 0 2px;
+    height: 150px;
+   
+   
+}
+.sag
+{
+    width: 45%;
+    background-color: rgb(81, 160, 160);
+    float: left;
+    height: 150px;
+}
+.clear
+{
+    clear: both;
+}
+.footer 
+{
+    margin-top: 25px;
+}
